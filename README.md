@@ -4,9 +4,9 @@ Cloudforet console uses lots of images for provider and cloud service type. This
 
 * Recommend file format: SVG, PNG
 
-# Directory Guide
+## Directory Guide
 
-## provider
+### provider
 
 Each provider have their own directory. Inside each provider directory.
 
@@ -17,7 +17,7 @@ Default providers:
 
 https://github.com/cloudforet-io/identity/tree/master/src/spaceone/identity/managed_resource/provider
 
-# Example AWS
+## Example AWS
 
 ```
 └── providers
@@ -29,7 +29,7 @@ https://github.com/cloudforet-io/identity/tree/master/src/spaceone/identity/mana
             ...
 ```
 
-# Direct URL
+## Direct URL
 
 Github file can be directly accessed using the following URL format:
 
@@ -37,7 +37,7 @@ Github file can be directly accessed using the following URL format:
 https://raw.githubusercontent.com/cloudforet-io/static-assets/master/providers/{provider name}/{file name}
 ```
 
-## For example
+### For example
 
 | File Name | Direct URL |
 | --- | --- |
