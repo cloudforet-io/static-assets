@@ -11,12 +11,19 @@ Cloudforet console uses lots of images for provider and cloud service type. This
 Each provider have their own directory. Inside each provider directory.
 
 * logo.svg: Provider logo
-* {cloud service type}.svg: Cloud service type image
+
+![provider logo](./docs/provider_logo.png)
 
 Default providers:
 
 https://github.com/cloudforet-io/identity/tree/master/src/spaceone/identity/managed_resource/provider
 
+
+### Cloud Service Types
+
+* {cloud service type}.svg: Cloud service type image
+
+![cloud serice types](./docs/cloud_service_types.png)
 ## Example AWS
 
 ```
