@@ -1,12 +1,17 @@
 # static-assets
 
-Static Assets like images
+Cloudforet console uses lots of images for provider and cloud service type. This repository is for storing those images.
+
+* Recommend file format: SVG, PNG
 
 # Directory Guide
 
 ## provider
 
 Each provider have their own directory. Inside each provider directory.
+
+* logo.svg: Provider logo
+* {cloud service type}.svg: Cloud service type image
 
 Default providers:
 
